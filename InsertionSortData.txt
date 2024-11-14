@@ -1,0 +1,233 @@
+==========1000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 246373
+ Start Time: 1729787973.7468083 
+ End Time: 1729787973.7478135 
+ Total Time: 0.0010051727294921875
+
+Total Amount of Comparisons For Insertion Sort in Py: 246373
+ Start Time: 1729787973.7478135
+ End Time: 1729787973.7707238
+ Total Time: 0.022910356521606445
+
+==========5000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 6293819
+ Start Time: 1729787973.7717357
+ End Time: 1729787973.801177
+ Total Time: 0.029441356658935547
+
+Total Amount of Comparisons For Insertion Sort in Py: 6293819
+ Start Time: 1729787973.801177
+ End Time: 1729787974.4240654
+ Total Time: 0.6228883266448975
+
+==========10000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 24982755
+ Start Time: 1729787974.4257686
+ End Time: 1729787974.5381596
+ Total Time: 0.11239099502563477
+
+Total Amount of Comparisons For Insertion Sort in Py: 24982755
+ Start Time: 1729787974.539166 
+ End Time: 1729787977.213232
+ Total Time: 2.6740660667419434
+
+==========15000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 56488769
+ Start Time: 1729787977.217764
+ End Time: 1729787977.4838147
+ Total Time: 0.2660508155822754
+
+Total Amount of Comparisons For Insertion Sort in Py: 56488769
+ Start Time: 1729787977.4838147 
+ End Time: 1729787983.496743
+ Total Time: 6.012928247451782
+
+==========20000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 99728700
+ Start Time: 1729787983.5018811
+ End Time: 1729787983.9809902
+ Total Time: 0.4791090488433838
+
+Total Amount of Comparisons For Insertion Sort in Py: 99728700
+ Start Time: 1729787983.9809902 
+ End Time: 1729787994.9850528
+ Total Time: 11.00406265258789
+
+==========25000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 155548600
+ Start Time: 1729787994.990759
+ End Time: 1729787995.7437189
+ Total Time: 0.7529599666595459
+
+Total Amount of Comparisons For Insertion Sort in Py: 155548600
+ Start Time: 1729787995.7437189 
+ End Time: 1729788011.9582112
+ Total Time: 16.214492321014404
+
+==========30000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 225198011
+ Start Time: 1729788011.963247
+ End Time: 1729788013.0692098
+ Total Time: 1.1059627532958984
+
+Total Amount of Comparisons For Insertion Sort in Py: 225198011
+ Start Time: 1729788013.070474 
+ End Time: 1729788036.8274462
+ Total Time: 23.756972312927246
+
+==========35000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 307028642
+ Start Time: 1729788036.8336797
+ End Time: 1729788038.3166533
+ Total Time: 1.482973575592041
+
+Total Amount of Comparisons For Insertion Sort in Py: 307028642
+ Start Time: 1729788038.3166533
+ End Time: 1729788071.3183784
+ Total Time: 33.00172519683838
+
+==========40000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 400191988
+ Start Time: 1729788071.3270597
+ End Time: 1729788073.2575207
+ Total Time: 1.9304609298706055
+
+Total Amount of Comparisons For Insertion Sort in Py: 400191988
+ Start Time: 1729788073.2575207
+ End Time: 1729788115.9587486
+ Total Time: 42.70122790336609
+
+==========45000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 505812204
+ Start Time: 1729788115.968837
+ End Time: 1729788118.5090847
+ Total Time: 2.540247678756714
+
+Total Amount of Comparisons For Insertion Sort in Py: 505812204
+ Start Time: 1729788118.5100946 
+ End Time: 1729788176.9788246
+ Total Time: 58.468729972839355
+
+==========50000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 624490489
+ Start Time: 1729788176.9896762
+ End Time: 1729788180.374999
+ Total Time: 3.3853228092193604
+
+Total Amount of Comparisons For Insertion Sort in Py: 624490489
+ Start Time: 1729788180.374999 
+ End Time: 1729788250.0231597
+ Total Time: 69.64816069602966
+
+==========55000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 758971752
+ Start Time: 1729788250.0348718
+ End Time: 1729788253.631278
+ Total Time: 3.5964062213897705
+
+Total Amount of Comparisons For Insertion Sort in Py: 758971752
+ Start Time: 1729788253.631278
+ End Time: 1729788351.9750476
+ Total Time: 98.34376955032349
+
+==========60000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 902545359
+ Start Time: 1729788351.9861174
+ End Time: 1729788356.1853898
+ Total Time: 4.199272394180298
+
+Total Amount of Comparisons For Insertion Sort in Py: 902545359
+ Start Time: 1729788356.1853898
+ End Time: 1729788450.216167
+ Total Time: 94.03077721595764
+
+==========65000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 1058398959
+ Start Time: 1729788450.227197
+ End Time: 1729788455.2656896
+ Total Time: 5.038492679595947
+
+Total Amount of Comparisons For Insertion Sort in Py: 1058398959
+ Start Time: 1729788455.2656896 
+ End Time: 1729788573.653644
+ Total Time: 118.38795447349548
+
+==========70000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 1227215457
+ Start Time: 1729788573.6671884
+ End Time: 1729788579.1966743
+ Total Time: 5.5294859409332275
+
+Total Amount of Comparisons For Insertion Sort in Py: 1227215457
+ Start Time: 1729788579.1966743 
+ End Time: 1729788706.894451
+ Total Time: 127.69777655601501
+
+==========75000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 1404750189
+ Start Time: 1729788706.9076817
+ End Time: 1729788713.30529
+ Total Time: 6.397608280181885
+
+Total Amount of Comparisons For Insertion Sort in Py: 1404750189
+ Start Time: 1729788713.3062928 
+ End Time: 1729788864.3777332
+ Total Time: 151.07144045829773
+
+==========80000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 1597476438
+ Start Time: 1729788864.393167
+ End Time: 1729788871.6117718
+ Total Time: 7.218604803085327
+
+Total Amount of Comparisons For Insertion Sort in Py: 1597476438
+ Start Time: 1729788871.6122746
+ End Time: 1729789039.9068086
+ Total Time: 168.2945339679718
+
+==========85000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 1805348436
+ Start Time: 1729789039.9242637
+ End Time: 1729789048.1420996
+ Total Time: 8.217835903167725
+
+Total Amount of Comparisons For Insertion Sort in Py: 1805348436
+ Start Time: 1729789048.1420996
+ End Time: 1729789252.5191603
+ Total Time: 204.37706065177917
+
+==========90000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 2025068726
+ Start Time: 1729789252.5358124
+ End Time: 1729789261.9600587
+ Total Time: 9.424246311187744
+
+Total Amount of Comparisons For Insertion Sort in Py: 2025068726
+ Start Time: 1729789261.9600587
+ End Time: 1729789486.5695028
+ Total Time: 224.60944414138794
+
+==========95000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 2259781464
+ Start Time: 1729789486.587589
+ End Time: 1729789496.9296584
+ Total Time: 10.342069387435913
+
+Total Amount of Comparisons For Insertion Sort in Py: 2259781464
+ Start Time: 1729789496.9296584 
+ End Time: 1729789752.9385161
+ Total Time: 256.0088577270508
+
+==========100000.txt==========
+Total Amount of Comparisons For Insertion Sort in CPP: 2505219319
+ Start Time: 1729789752.95568
+ End Time: 1729789764.3142054
+ Total Time: 11.358525514602661
+
+Total Amount of Comparisons For Insertion Sort in Py: 2505219319
+ Start Time: 1729789764.3142054 
+ End Time: 1729790044.9267385
+ Total Time: 280.6125330924988
+
+CPP Insertion Sort: [0.0010051727294921875, 0.029441356658935547, 0.11239099502563477, 0.2660508155822754, 0.4791090488433838, 0.7529599666595459, 1.1059627532958984, 1.482973575592041, 1.9304609298706055, 2.540247678756714, 3.3853228092193604, 3.5964062213897705, 4.199272394180298, 5.038492679595947, 5.5294859409332275, 6.397608280181885, 7.218604803085327, 8.217835903167725, 9.424246311187744, 10.342069387435913, 11.358525514602661]
+Py Insertion Sort: [0.022910356521606445, 0.6228883266448975, 2.6740660667419434, 6.012928247451782, 11.00406265258789, 16.214492321014404, 23.756972312927246, 33.00172519683838, 42.70122790336609, 58.468729972839355, 69.64816069602966, 98.34376955032349, 94.03077721595764, 118.38795447349548, 127.69777655601501, 151.07144045829773, 168.2945339679718, 204.37706065177917, 224.60944414138794, 256.0088577270508, 280.6125330924988] 
